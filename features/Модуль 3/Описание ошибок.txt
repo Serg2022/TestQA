@@ -1,0 +1,21 @@
+Error calling context method (ExecuteCommand):
+	Ошибка открытия документа Sales по гипер ссылке
+	
+Expected number of lines in <BasisesTree> table is равно 0 and actual number is <2>.
+	Получается при открытии формы "Добавление связанных строк" в дерево значений должно было быть пустым, а при открытии 
+	ДЗ было заполнено 2 строками
+
+Form table named <List> is not found.
+	Не найден таблица с именем <List>
+
+Line No.
+	Сформированный отчет "Document registrations report" должен был быть, после формирования пустым, а по факту заполнен значениями
+	
+The button/command with <Sales invoice> header is not found.
+	на форме Ордера не найдена кнопка "Sales invoice" 
+
+Unable to move to the required line in <BasisesTree> table.
+	При тестировании программа не может обранужить заданную в тесте строку.
+ 
+ 
+ 
